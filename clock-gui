@@ -3,3 +3,5 @@
 import tkinter
 
 from time import strftime
+top = tkinter.Tk()
+top.title('Python Clock')
