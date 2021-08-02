@@ -1,0 +1,5 @@
+#!/usr/bin/env python
+
+import tkinter
+
+from time import strftime
