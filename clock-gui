@@ -12,7 +12,6 @@ def time():
     clock.after(1000, time)
 clock = tkinter.Label(top, font = ('arial', 40, 'bold'), background = 'white', foreground = 'black')
 clock.pack(anchor = 'center')
-while True:
-    time()
-    time.sleep(1)
+time()
+
 top.mainloop()
