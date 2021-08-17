@@ -4,7 +4,7 @@ import tkinter
 import time
 from time import strftime
 top = tkinter.Tk()
-top.title('Python Clock')
+top.title('Clock')
 top.resizable(True,True)
 def time(): 
     string = strftime('%H:%M:%S %p') 
