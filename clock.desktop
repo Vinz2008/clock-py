@@ -5,4 +5,4 @@ Type=Application
 Terminal=false
 Exec=/home/vincent/python/clock-py/dist/clock-gui/clock-gui
 Name=Clock
-Icon=/home/vincent/Téléchargements/external-content.duckduckgo.com.png
+Icon=/home/vincent/Téléchargements/clock.jpg
