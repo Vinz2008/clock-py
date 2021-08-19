@@ -1,2 +1,9 @@
-This project is a clock written in python.
-Put the release extracted in your home folder.
+# Clock-py  
+This project is a clock written in python.  
+## Installation  
+### Manually  
+
+
+
+Put the release extracted in your home folder.  
+
