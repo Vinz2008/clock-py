@@ -1,7 +1,9 @@
 # Clock-py  
 This project is a clock written in python.  
 ## Installation  
-### Manually  
+### Manually   
+
+Download the last package and extract it in a .clock folder in your home directory so that the path to the executable named clock-gui is `~/.clock/clock-gui/clock-gui`
 
 ### With the script (very buggy at the moment)
 
