@@ -15,3 +15,6 @@ Type the command : `chmod +x install.sh`
 Then type the command : `./install.sh`   
 The script will ask you your root password.    
 
+### Also ...
+
+You can also use a custom desktop file to have the icon or the executable wherever you want (or you could just modify my desktop file)
