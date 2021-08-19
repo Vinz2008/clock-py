@@ -8,9 +8,9 @@ Download clock.desktop and type in the Downloads folder the command : `sudo mv c
 
 ### With the script (very buggy at the moment)
 
-Put the release extracted in your home folder. 
-Extract it and change the directory in the terminal to the extracted directory.
-Type the command : `chmod +x install.sh`
-Then type the command : `./install.sh`
-The script will ask you your root password.
+Put the release extracted in your home folder.   
+Extract it and change the directory in the terminal to the extracted directory.   
+Type the command : `chmod +x install.sh`    
+Then type the command : `./install.sh`   
+The script will ask you your root password.    
 
