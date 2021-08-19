@@ -2,7 +2,8 @@
 This project is a clock written in python.  
 
 ## Warnings
-The app is supported only in linux in compiled executable. You can use this app just with the python file or compile the code yourself for your platform like with pyinstaller or cx_freeze.
+The app is supported only in linux in compiled executable.     
+You can use this app just with the python file or compile the code yourself for your platform like with pyinstaller or cx_freeze.
 ## Installation  
 
 ### Manually   
